@@ -1,5 +1,8 @@
 ## Project Details
 
+
+IDE Python: Jupiter from Anaconda
+
 The objectives of this project are 
 identifying the features essential for speech disorder diagnosis, determining the pattern of 
 subgroup based on the dataset by using clustering algorithms, and evaluating clustering 
